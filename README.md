@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm Akshit Garg
 
-<!--
-**AkshitGarg054/AkshitGarg054** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **B.Tech CSE** (3rd Year Student)  
+⚡ Passionate about building impactful projects and solving challenging problems.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with Me
+
+[![Discord](https://img.shields.io/badge/Discord-Chat%20With%20Me-5865F2?logo=discord&logoColor=white)](https://discord.com/users/915678517335838720)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/akshit-garg-03a00827a/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode&logoColor=white)](https://leetcode.com/Hak_shit/)
+
+
+⭐ *"Code. Learn. Build. Repeat."*
