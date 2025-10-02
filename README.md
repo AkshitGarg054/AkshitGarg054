@@ -18,9 +18,6 @@
 ## 🔥 Streak Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AkshitGarg054&theme=tokyonight&hide_border=true)
 
-## 🏆 Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AkshitGarg054&theme=onedark)
-
 
 
 
