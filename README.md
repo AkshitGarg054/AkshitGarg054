@@ -11,4 +11,17 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode&logoColor=white)](https://leetcode.com/Hak_shit/)
 
 
+
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AkshitGarg054&show_icons=true&theme=tokyonight)
+
+## 🔥 Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AkshitGarg054&theme=tokyonight&hide_border=true)
+
+## 🏆 Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AkshitGarg054&theme=onedark)
+
+
+
+
 ⭐ *"Code. Learn. Build. Repeat."*
